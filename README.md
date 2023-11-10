@@ -21,4 +21,3 @@ An array is introduced to systematically count the occurrences of each final bal
 ## Data Integrity Evaluation:
 
 Despite the expectation for a final balance of $0 after each iteration, the project recognizes potential discrepancies.
-The final output, comprising the count of each unique final balance, is captured in a text file for further analysis.
